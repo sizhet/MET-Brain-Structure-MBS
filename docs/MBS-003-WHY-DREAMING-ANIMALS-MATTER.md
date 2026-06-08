@@ -1,4 +1,4 @@
-# Why Dreaming Animals Matter
+# MBS-003 - Why Dreaming Animals Matter
 ## Dreaming as Evolutionary Evidence for MET Brain Structure
 
 ## Introduction
@@ -7,7 +7,7 @@ One of the most fascinating questions in the study of intelligence is not why hu
 
 A more fundamental question may be:
 
-Why do animals dream?
+> Why do animals dream?
 
 Humans dream.
 
@@ -31,16 +31,16 @@ If dreaming is widespread across species, then dreaming may reveal something fun
 
 Rather than being a mysterious side effect, dreaming may expose one of the core runtime mechanisms that biological cognition has relied upon for millions of years.
 
-The Importance of Removing Human Exceptionalism
+## The Importance of Removing Human Exceptionalism
 
 Many theories of intelligence begin from uniquely human abilities:
 
-Language
-Logic
-Mathematics
-Planning
-Culture
-Technology
+- Language
+- Logic
+- Mathematics
+- Planning
+- Culture
+- Technology
 
 While these abilities are important, they can also obscure deeper biological principles.
 
@@ -56,11 +56,11 @@ Yet dogs appear capable of dream-like experiences.
 
 During sleep, dogs may exhibit:
 
-Running motions
-Paw movements
-Vocalizations
-Sniffing behaviors
-Tracking-like reactions
+- Running motions
+- Paw movements
+- Vocalizations
+- Sniffing behaviors
+- Tracking-like reactions
 
 These behaviors strongly suggest activation of internal scene-related processes.
 
@@ -68,7 +68,7 @@ If such processes exist without language or symbolic reasoning, then their found
 
 This immediately shifts attention toward embodied cognition.
 
-Dreaming Suggests an Internal Scene Runtime
+## Dreaming Suggests an Internal Scene Runtime
 
 Suppose a dog dreams about chasing prey.
 
@@ -76,19 +76,19 @@ The dream may not be a perfect replay of reality.
 
 However, it appears to involve several essential components:
 
-Objects
-Environments
-Actions
-Goals
-Transitions
-Behavioral sequences
+- Objects
+- Environments
+- Actions
+- Goals
+- Transitions
+- Behavioral sequences
 
 In structural terms, this implies the existence of:
 
-State representations
-Action pathways
-Trigger mechanisms
-Runtime activation systems
+- State representations
+- Action pathways
+- Trigger mechanisms
+- Runtime activation systems
 
 In other words, dreaming appears to require some form of internal scene construction and execution.
 
@@ -98,29 +98,29 @@ However, from a structural perspective, dreaming suggests the existence of a run
 
 This observation aligns naturally with the MET Brain Structure hypothesis.
 
-Dreaming and Calling Graphs
+## Dreaming and Calling Graphs
 
 Within Structural Intelligence research, Calling Graphs are used to represent transitions among states through operations.
 
 A simplified form can be expressed as:
 
-State → Operation → State
+    State → Operation → State
 
 Dreaming appears surprisingly compatible with this structure.
 
 For example:
 
-Resting State
-→ Detection of Relevant Memory
-→ Hunting Scene Activation
-
-Hunting Scene
-→ Pursuit Behavior
-→ Capture Attempt
-
-Capture Attempt
-→ Reward Expectation
-→ Scene Transition
+    Resting State
+    → Detection of Relevant Memory
+    → Hunting Scene Activation
+    
+    Hunting Scene
+    → Pursuit Behavior
+    → Capture Attempt
+    
+    Capture Attempt
+    → Reward Expectation
+    → Scene Transition
 
 The biological implementation may be entirely different from software systems.
 
@@ -128,17 +128,17 @@ However, the structural pattern appears similar.
 
 Dreaming therefore provides a possible bridge between biological cognition and graph-based runtime models.
 
-Dreaming and Function Tunnel Networks
+## Dreaming and Function Tunnel Networks
 
 The same observation can be viewed through Function Tunnel Networks.
 
 A hunting sequence, for example, can be interpreted as a functional tunnel:
 
-Target Detection
-→ Orientation
-→ Pursuit
-→ Capture
-→ Consumption
+    Target Detection
+    → Orientation
+    → Pursuit
+    → Capture
+    → Consumption
 
 During waking life, such tunnels support behavior.
 
@@ -148,7 +148,7 @@ From this perspective, dreams may expose active functional pathways embedded wit
 
 Dreaming becomes less like random image generation and more like runtime activation of stored functional structures.
 
-Why Evolution Would Preserve Dreaming
+## Why Evolution Would Preserve Dreaming
 
 Dreaming is not free.
 
@@ -160,12 +160,12 @@ Any widespread and persistent biological mechanism likely provides evolutionary 
 
 Several possibilities have been proposed by neuroscientists and cognitive researchers:
 
-Memory consolidation
-Experience replay
-Skill refinement
-Threat simulation
-Emotional regulation
-Predictive preparation
+- Memory consolidation
+- Experience replay
+- Skill refinement
+- Threat simulation
+- Emotional regulation
+- Predictive preparation
 
 The MBS perspective does not attempt to replace these explanations.
 
@@ -173,15 +173,15 @@ Instead, it proposes that many of them may emerge from a shared structural runti
 
 Dreaming may help:
 
-Strengthen triggers
-Refine retrieval pathways
-Reinforce functional tunnels
-Reorganize graph structures
-Support adaptation without external risk
+- Strengthen triggers
+- Refine retrieval pathways
+- Reinforce functional tunnels
+- Reorganize graph structures
+- Support adaptation without external risk
 
 If so, dreaming becomes an important mechanism for continuous structural evolution.
 
-Threat Simulation and Survival Pressure
+## Threat Simulation and Survival Pressure
 
 One particularly important possibility involves danger response.
 
@@ -199,43 +199,43 @@ Under such conditions, the ability to rapidly activate relevant behavioral pathw
 
 Evolution strongly favors organisms capable of:
 
-Detecting threats quickly
-Retrieving appropriate responses rapidly
-Executing survival behaviors efficiently
+- Detecting threats quickly
+- Retrieving appropriate responses rapidly
+- Executing survival behaviors efficiently
 
 Dreaming may provide a low-risk environment for strengthening or refining such capabilities.
 
 Whether or not this interpretation proves fully correct, it highlights a central MBS idea:
 
-Trigger systems and retrieval systems may have been shaped by survival pressures long before advanced reasoning emerged.
+> Trigger systems and retrieval systems may have been shaped by survival pressures long before advanced reasoning emerged.
 
-From Dreaming to Cognitive Architecture
+## From Dreaming to Cognitive Architecture
 
 Dreaming suggests that biological cognition may not operate primarily as a symbolic reasoning engine.
 
 Instead, it may rely heavily on:
 
-Trigger activation
-Retrieval mechanisms
-Graph-like organization
-Functional pathways
-Scene construction
-Runtime execution
+- Trigger activation
+- Retrieval mechanisms
+- Graph-like organization
+- Functional pathways
+- Scene construction
+- Runtime execution
 
 These elements appear repeatedly across:
 
-Dreaming
-Memory recall
-Imagination
-Planning
-Navigation
-Skill acquisition
+- Dreaming
+- Memory recall
+- Imagination
+- Planning
+- Navigation
+- Skill acquisition
 
 The recurrence of these patterns motivates the search for a unified structural framework.
 
 This search ultimately leads to the MET Brain Structure hypothesis.
 
-Dreaming and Cognitive Convergence
+## Dreaming and Cognitive Convergence
 
 Dreaming animals also provide an intriguing clue regarding cognitive convergence.
 
@@ -247,10 +247,10 @@ The MBS perspective adds another possibility.
 
 If organisms share similar:
 
-Survival pressures
-Trigger categories
-Retrieval requirements
-Functional tunnels
+- Survival pressures
+- Trigger categories
+- Retrieval requirements
+- Functional tunnels
 
 then they may gradually develop similar cognitive structures.
 
@@ -258,13 +258,13 @@ In this view:
 
 Similar Environment
 
-→ Similar Triggers
-
-→ Similar Retrieval Paths
-
-→ Similar Functional Tunnels
-
-→ Similar Cognition
+    → Similar Triggers
+    
+    → Similar Retrieval Paths
+    
+    → Similar Functional Tunnels
+    
+    → Similar Cognition
 
 Dreaming may participate in this process by repeatedly activating and refining these structures over time.
 
@@ -278,15 +278,15 @@ Such a system may involve:
 
 Trigger
 
-→ Retrieval
-
-→ Graph Activation
-
-→ Tunnel Activation
-
-→ Scene Construction
-
-→ Learning and Adaptation
+    → Retrieval
+    
+    → Graph Activation
+    
+    → Tunnel Activation
+    
+    → Scene Construction
+    
+    → Learning and Adaptation
 
 This interpretation does not claim to explain all aspects of dreaming.
 
@@ -294,7 +294,7 @@ Nor does it attempt to replace neuroscience.
 
 Instead, it offers a structural lens through which diverse observations may be organized and connected.
 
-Conclusion
+## Conclusion
 
 Dreaming animals matter because they allow us to look beneath language, culture, mathematics, and civilization.
 
