@@ -1,46 +1,49 @@
 cff-version: 1.2.0
 
-title: "Function Tunnel Math and Network (FTMN): Representation, Classification, Search, Dispatch, and Networked Functional Intelligence"
+title: "MET Brain Structure (MBS): A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence"
 
 message: "If you use this work, please cite it using the metadata below."
 
-type: software
+type: dataset
 
 authors:
   - family-names: Tan
     given-names: Sizhe
+    affiliation: Independent Researcher
 
-repository-code: "https://github.com/sizhet/Function-Tunnel-Math-and-Network-FTMN"
+repository-code: "https://github.com/sizhet/MET-Brain-Structure-MBS"
 
 abstract: >
-  Function Tunnel Math and Network (FTMN) extends Function Tunnel
-  Intelligence (FTI) into a mathematical and runtime framework for
-  representing, classifying, searching, dispatching, and networking
-  functional trajectories. The framework introduces Function Tunnel
-  Intermediate Representations (FT-IRs), Tunnel CCCs, Differential CCCs,
-  Side Event Evidence, Function Tunnel Pool Search, Trigger-Controlled
-  Dispatch, and Function Tunnel Networks (FTNs). FTMN investigates how
-  large collections of function tunnels may become reusable, searchable,
-  activatable, and evolvable cognitive infrastructure.
+  MET Brain Structure (MBS) is a structural runtime hypothesis
+  exploring possible organizational principles underlying biological
+  cognition. Inspired by Structural Intelligence, Calling Graphs,
+  Function Tunnel Intelligence (FTI), Autonomous Structural Intelligence
+  (ASI), and embodied runtime systems, MBS investigates how triggering,
+  retrieval, graph and tunnel structures, embodied scene runtime, and
+  in-situ adaptation may contribute to dreaming, danger response,
+  learning, planning, memory, and cognitive convergence.
+
+  The project does not attempt to replace neuroscience. Instead,
+  it proposes a complementary structural perspective intended to
+  organize observations across neuroscience, cognitive science,
+  animal behavior, artificial intelligence, and human-AI hybrid systems.
 
 keywords:
-  - Function Tunnel Intelligence
-  - Function Tunnel Math
-  - Function Tunnel Network
   - Structural Intelligence
-  - Common Concept Core
-  - CCC
-  - Differential Tree
-  - Hybrid Differential Tree
-  - Two-Phases Search
-  - Metric Structural Intelligence
-  - Event Sequence
-  - Time Series
-  - PDS
-  - ASI
+  - Cognitive Architecture
+  - Brain Structure
+  - Embodied Cognition
+  - Dreaming
+  - Trigger Systems
+  - Retrieval Systems
+  - Function Tunnel Intelligence
+  - Calling Graph
+  - Autonomous Structural Intelligence
+  - Cognitive Convergence
+  - Human-AI Hybrid Intelligence
 
-license: CC-BY-4.0
+license: MIT
+
+date-released: 2026-06-08
 
 version: 1.0.0
-
-date-released: 2026-06-07
