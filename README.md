@@ -3,17 +3,17 @@
 
 ## What Is This Repository?
 
-This repository introduces MET Brain Structure (MBS), an exploratory structural hypothesis about biological cognition.
+This repository introduces **MET Brain Structure (MBS)**, an exploratory structural hypothesis about biological cognition.
 
 MBS proposes that many cognitive phenomena may be understood through a common structural runtime architecture involving:
 
-Trigger systems
-Retrieval structures
-Graph and tunnel knowledge
-Embodied scene runtime
-In-situ learning and evolution
+- Trigger systems
+- Retrieval structures
+- Graph and tunnel knowledge
+- Embodied scene runtime
+- In-situ learning and evolution
 
-The project emerged from research in Structural Intelligence, Calling Graphs, Function Tunnel Intelligence, Function Tunnel Math and Networks, and Autonomous Structural Intelligence.
+The project emerged from research in **Structural Intelligence, Calling Graphs, Function Tunnel Intelligence, Function Tunnel Math and Networks, and Autonomous Structural Intelligence**.
 
 MBS is not intended to replace neuroscience.
 
@@ -95,15 +95,19 @@ It may be evidence of an embodied scene runtime that supports memory, learning, 
 
 The core architecture of MBS contains five layers:
 
-Trigger Layer
+#### 1. Trigger Layer
 Detects significance, danger, opportunity, novelty, goals, and emotional cues.
-Retrieval Layer
+
+#### 2. Retrieval Layer
 Locates relevant memory, scenes, pathways, and structural candidates.
-Graph and Tunnel Knowledge Layer
+
+#### 3. Graph and Tunnel Knowledge Layer
 Organizes states, actions, functional pathways, scene relationships, and behavioral routines.
-Embodied Runtime Layer
+
+#### 4. Embodied Runtime Layer
 Activates scenes, simulations, dreams, plans, memories, and actions.
-In-Situ Evolution Layer
+
+#### 5. In-Situ Evolution Layer
 Continuously modifies triggers, retrieval paths, tunnels, and scene structures through experience.
 
 ## Danger Response and MET Selection
@@ -138,14 +142,14 @@ Memory, dreaming, imagination, navigation, planning, and prediction may all invo
 
 A scene may contain:
 
-Objects
-Space
-Agents
-Actions
-Emotional context
-Goals
-Expected transitions
-Available functional tunnels
+- Objects
+- Space
+- Agents
+- Actions
+- Emotional context
+- Goals
+- Expected transitions
+- Available functional tunnels
 
 In this view, cognition is not always assembled from isolated symbols.
 
@@ -185,20 +189,20 @@ MBS is not a replacement for neuroscience.
 
 Neuroscience provides:
 
-Observations
-Experiments
-Biological mechanisms
-Imaging evidence
-Behavioral data
-Clinical insights
+- Observations
+- Experiments
+- Biological mechanisms
+- Imaging evidence
+- Behavioral data
+- Clinical insights
 
 MBS attempts to provide:
 
-Structural abstraction
-Architectural interpretation
-Cross-domain organization
-Computational analogies
-Digital model references
+- Structural abstraction
+- Architectural interpretation
+- Cross-domain organization
+- Computational analogies
+- Digital model references
 
 The goal is collaboration, not competition.
 
@@ -226,11 +230,11 @@ It suggests that future AI systems may need more than language modeling.
 
 They may require:
 
-Trigger architectures
-Retrieval governance
-Scene-centered runtime
-Function tunnel execution
-Continuous structural adaptation
+- Trigger architectures
+- Retrieval governance
+- Scene-centered runtime
+- Function tunnel execution
+- Continuous structural adaptation
 
 ## Suggested Reading Order
 
@@ -276,15 +280,32 @@ The purpose of this repository is to open a research direction:
 
 > toward a structural science of biological, artificial, and hybrid cognition.
 
-##  License
+---
 
-This repository is intended for open research, education, discussion, and collaboration.
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
 
 ## Citation
 
-Citation metadata should be provided through:
+DOI: TBD
 
-CITATION.cff
-.zenodo.json
+## License
 
-after the first public release.
+Apache-2.0
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
+
