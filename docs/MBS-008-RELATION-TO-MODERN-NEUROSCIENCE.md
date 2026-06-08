@@ -1,5 +1,5 @@
 
-# Relation to Modern Neuroscience
+# MBS-008 - Relation to Modern Neuroscience
 ## Learning from Neuroscience, Not Replacing It
 
 ## Introduction
@@ -14,17 +14,17 @@ Modern neuroscience represents one of the most successful scientific efforts in 
 
 For more than a century, neuroscientists have investigated:
 
-Brain anatomy
-Neural circuits
-Sensory systems
-Memory
-Learning
-Emotion
-Attention
-Sleep
-Decision making
-Motor control
-Consciousness
+- Brain anatomy
+- Neural circuits
+- Sensory systems
+- Memory
+- Learning
+- Emotion
+- Attention
+- Sleep
+- Decision making
+- Motor control
+- Consciousness
 
 Through experimental observation, imaging technologies, electrophysiology, behavioral studies, computational modeling, and clinical research, neuroscience has accumulated an extraordinary body of knowledge.
 
@@ -32,17 +32,17 @@ The MBS project begins from a position of gratitude and respect toward this work
 
 Without neuroscience, MBS would not exist.
 
-What MBS Is Not
+## What MBS Is Not
 
 MBS does not claim:
 
-To have discovered the biological implementation of intelligence.
-To explain all brain functions.
-To replace neural models.
-To replace cognitive science.
-To replace psychology.
-To replace computational neuroscience.
-To provide definitive answers regarding consciousness.
+- To have discovered the biological implementation of intelligence.
+- To explain all brain functions.
+- To replace neural models.
+- To replace cognitive science.
+- To replace psychology.
+- To replace computational neuroscience.
+- To provide definitive answers regarding consciousness.
 
 Such claims would be neither justified nor useful.
 
@@ -50,64 +50,64 @@ The purpose of MBS is much narrower.
 
 It seeks to provide a structural perspective that may help organize and connect observations already revealed by neuroscience.
 
-The Structural Perspective
+## The Structural Perspective
 
 Throughout neuroscience, many findings appear at different levels of description.
 
 Examples include:
 
-Neurons.
-
-Circuits.
-
-Brain regions.
-
-Networks.
-
-Behavioral systems.
-
-Cognitive functions.
-
-Evolutionary adaptations.
-
-Computational models.
+    Neurons.
+    
+    Circuits.
+    
+    Brain regions.
+    
+    Networks.
+    
+    Behavioral systems.
+    
+    Cognitive functions.
+    
+    Evolutionary adaptations.
+    
+    Computational models.
 
 These descriptions are all valuable.
 
 However, researchers often face a difficult challenge:
 
-How can observations across multiple levels be organized into a coherent structural picture?
+> How can observations across multiple levels be organized into a coherent structural picture?
 
 The MBS project explores one possible answer.
 
 Rather than focusing primarily on biological implementation, MBS focuses on structural relationships among:
 
-Triggering
-Retrieval
-Functional pathways
-Scene activation
-Runtime execution
-Continuous adaptation
+- Triggering
+- Retrieval
+- Functional pathways
+- Scene activation
+- Runtime execution
+- Continuous adaptation
 
 These structures may exist regardless of how they are implemented biologically.
 
-An Analogy
+## An Analogy
 
 Consider transportation systems.
 
 A transportation researcher may study:
 
-Engines
-Roads
-Vehicles
-Traffic signals
-Driver behavior
+- Engines
+- Roads
+- Vehicles
+- Traffic signals
+- Driver behavior
 
 All are important.
 
 However, another researcher may ask:
 
-What is the structure of transportation itself?
+> What is the structure of transportation itself?
 
 The second question does not replace the first.
 
@@ -121,35 +121,35 @@ MBS investigates possible structural organization.
 
 Both perspectives can coexist.
 
-Dreaming as an Example
+## Dreaming as an Example
 
 Consider dreaming.
 
 Neuroscience has produced extensive research regarding:
 
-Sleep stages
-REM activity
-Neural activation patterns
-Memory consolidation
-Emotional processing
+- Sleep stages
+- REM activity
+- Neural activation patterns
+- Memory consolidation
+- Emotional processing
 
 The MBS project does not challenge these findings.
 
 Instead, it asks a different question:
 
-What structural role might dreaming play within cognition?
+> What structural role might dreaming play within cognition?
 
 The proposed answer involves:
 
-Trigger activation
-Retrieval processes
-Scene construction
-Functional tunnel reinforcement
-Structural adaptation
+- Trigger activation
+- Retrieval processes
+- Scene construction
+- Functional tunnel reinforcement
+- Structural adaptation
 
 This interpretation complements neuroscience observations rather than competing with them.
 
-Memory and Retrieval
+## Memory and Retrieval
 
 Modern neuroscience has revealed remarkable insights regarding memory systems.
 
@@ -157,30 +157,30 @@ MBS does not attempt to replace these discoveries.
 
 Instead, MBS asks:
 
-What structural functions might memory systems collectively support?
+> What structural functions might memory systems collectively support?
 
 The retrieval perspective emerged from this question.
 
 Many observed memory phenomena appear consistent with systems responsible for:
 
-Fast access
-Context reconstruction
-Scene activation
-Behavioral preparation
+- Fast access
+- Context reconstruction
+- Scene activation
+- Behavioral preparation
 
 The exact neural implementation remains a neuroscience question.
 
 The structural interpretation belongs to MBS.
 
-Threat Processing and Trigger Systems
+## Threat Processing and Trigger Systems
 
 Neuroscience has long demonstrated the importance of threat processing.
 
 Organisms possess specialized mechanisms for:
 
-Detecting danger
-Allocating attention
-Producing rapid responses
+- Detecting danger
+- Allocating attention
+- Producing rapid responses
 
 MBS interprets these observations through the concept of Trigger Systems.
 
@@ -190,14 +190,14 @@ The goal is structural organization.
 
 Threat-related findings become easier to connect with:
 
-Retrieval
-Functional tunnels
-Scene runtime systems
-Learning mechanisms
+- Retrieval
+- Functional tunnels
+- Scene runtime systems
+- Learning mechanisms
 
 when viewed through a common architectural framework.
 
-Embodied Cognition
+## Embodied Cognition
 
 Modern neuroscience and cognitive science increasingly emphasize embodiment.
 
@@ -211,28 +211,28 @@ The concept of Embodied Scene Runtime emerged directly from the observation that
 
 In this sense, MBS should be viewed as an attempt to extend and organize embodied cognition perspectives rather than replace them.
 
-Learning from Existing Theories
+## Learning from Existing Theories
 
 The MBS project has benefited from many research traditions.
 
 Examples include:
 
-Neuroscience
-Cognitive science
-Ethology
-Evolutionary psychology
-Embodied cognition
-Predictive processing
-Memory research
-Navigation research
-Sleep and dreaming research
-Artificial intelligence
+- Neuroscience
+- Cognitive science
+- Ethology
+- Evolutionary psychology
+- Embodied cognition
+- Predictive processing
+- Memory research
+- Navigation research
+- Sleep and dreaming research
+- Artificial intelligence
 
 Many ideas appearing in MBS are inspired by decades of work from these communities.
 
 The purpose of MBS is synthesis, not dismissal.
 
-Why Structural Models Matter
+## Why Structural Models Matter
 
 Scientific progress often requires multiple perspectives.
 
@@ -262,7 +262,7 @@ No single perspective is sufficient.
 
 The same principle may apply to biological intelligence.
 
-MBS as a Companion Framework
+## MBS as a Companion Framework
 
 A useful way to view MBS is as a companion framework.
 
@@ -292,7 +292,7 @@ Conceptual integration.
 
 The two perspectives are complementary rather than competitive.
 
-Areas of Possible Collaboration
+## Areas of Possible Collaboration
 
 The MBS project may be useful in several ways.
 
@@ -304,15 +304,15 @@ Third, it may provide conceptual bridges between neuroscience and artificial int
 
 Fourth, it may generate new questions regarding:
 
-Trigger systems
-Retrieval mechanisms
-Scene activation
-Functional pathways
-Cognitive convergence
+- Trigger systems
+- Retrieval mechanisms
+- Scene activation
+- Functional pathways
+- Cognitive convergence
 
 Even when incorrect, structural hypotheses can be valuable because they generate new avenues for investigation.
 
-Intellectual Humility
+## Intellectual Humility
 
 The brain remains one of the most complex known systems in nature.
 
@@ -340,7 +340,7 @@ This is expected.
 
 Scientific progress often emerges through cycles of proposal, testing, revision, and refinement.
 
-Looking Forward
+## Looking Forward
 
 The future of intelligence research will likely require increasing collaboration among disciplines.
 
@@ -366,7 +366,7 @@ Its goal is not to replace existing knowledge.
 
 Its goal is to learn from it, organize it, and perhaps help connect some of its most important ideas through a common structural language.
 
-Conclusion
+## Conclusion
 
 The MET Brain Structure project is fundamentally a structural exploration.
 
