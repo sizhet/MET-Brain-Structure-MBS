@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+
+title: "Function Tunnel Math and Network (FTMN): Representation, Classification, Search, Dispatch, and Networked Functional Intelligence"
+
+message: "If you use this work, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: Tan
+    given-names: Sizhe
+
+repository-code: "https://github.com/sizhet/Function-Tunnel-Math-and-Network-FTMN"
+
+abstract: >
+  Function Tunnel Math and Network (FTMN) extends Function Tunnel
+  Intelligence (FTI) into a mathematical and runtime framework for
+  representing, classifying, searching, dispatching, and networking
+  functional trajectories. The framework introduces Function Tunnel
+  Intermediate Representations (FT-IRs), Tunnel CCCs, Differential CCCs,
+  Side Event Evidence, Function Tunnel Pool Search, Trigger-Controlled
+  Dispatch, and Function Tunnel Networks (FTNs). FTMN investigates how
+  large collections of function tunnels may become reusable, searchable,
+  activatable, and evolvable cognitive infrastructure.
+
+keywords:
+  - Function Tunnel Intelligence
+  - Function Tunnel Math
+  - Function Tunnel Network
+  - Structural Intelligence
+  - Common Concept Core
+  - CCC
+  - Differential Tree
+  - Hybrid Differential Tree
+  - Two-Phases Search
+  - Metric Structural Intelligence
+  - Event Sequence
+  - Time Series
+  - PDS
+  - ASI
+
+license: CC-BY-4.0
+
+version: 1.0.0
+
+date-released: 2026-06-07

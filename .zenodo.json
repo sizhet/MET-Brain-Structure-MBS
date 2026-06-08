@@ -1,0 +1,36 @@
+{
+  "title": "Function Tunnel Math and Network (FTMN): Representation, Classification, Search, Dispatch, and Networked Functional Intelligence",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Function Tunnel Math and Network (FTMN) is a Structural Intelligence framework that extends Function Tunnel Intelligence (FTI) into a coherent mathematical and runtime architecture. The framework investigates how time-series curve families can be transformed into Function Tunnel Intermediate Representations (FT-IRs), classified through Tunnel Common Concept Cores (CCCs) and Differential CCCs, enriched through Side Event Evidence, retrieved through Two-Phases Search and Hybrid Differential Trees, activated through Trigger-Controlled Dispatch, and ultimately connected into large-scale Function Tunnel Networks (FTNs). FTMN provides a unified pathway from curves to event sequences, from event sequences to function tunnels, and from individual tunnels to networked cognitive infrastructure. The repository presents seven foundational algorithms and explores their relationships with Common Concept Core theory, Differential Trees, Metric Structural Intelligence, Decision and Policy Systems (PDS), Task Graphs, Calling Graphs, Autonomous Structural Intelligence (ASI), and Human-AI Hybrid Intelligence.",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "Function Tunnel Intelligence",
+    "Function Tunnel Math",
+    "Function Tunnel Network",
+    "Structural Intelligence",
+    "Common Concept Core",
+    "CCC",
+    "Differential Tree",
+    "Hybrid Differential Tree",
+    "Two-Phases Search",
+    "Metric Structural Intelligence",
+    "Event Sequences",
+    "Time Series",
+    "Decision and Policy Systems",
+    "PDS",
+    "Autonomous Structural Intelligence",
+    "ASI",
+    "Cognitive Infrastructure",
+    "Human-AI Hybrid Intelligence"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
+}
