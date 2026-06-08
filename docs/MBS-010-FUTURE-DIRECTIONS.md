@@ -10,7 +10,7 @@ The MET Brain Structure (MBS) project is intentionally exploratory.
     It does not claim to explain the brain.
     
     It does not claim to solve cognition.
-
+    
 Instead, MBS proposes a structural perspective through which a variety of observations may be organized and investigated.
 
 The true value of any structural framework ultimately depends on what it enables.
