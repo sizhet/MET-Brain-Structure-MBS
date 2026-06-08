@@ -1,5 +1,5 @@
 
-# Danger Response and MET Selection
+# MBS-005 - Danger Response and MET Selection
 ## Why Evolution May Favor Trigger-Retrieval-Tunnel Architectures
 
 ## Introduction
@@ -8,13 +8,13 @@ One of the most fundamental questions in biological intelligence is not how cogn
 
 A deeper question may be:
 
-Why did cognition evolve into its current form?
+> Why did cognition evolve into its current form?
 
 The MET Brain Structure (MBS) project approaches this question through the lens of Minimal Evolution Threshold (MET) selection.
 
 Rather than assuming that evolution seeks optimal intelligence, the MET perspective proposes a simpler principle:
 
-Evolution tends to preserve structures that reliably cross survival thresholds.
+> Evolution tends to preserve structures that reliably cross survival thresholds.
 
 A structure does not need to be perfect.
 
@@ -32,7 +32,7 @@ Danger is unforgiving.
 
 And danger may have played a decisive role in shaping the architecture of cognition itself.
 
-The Primacy of Danger
+## The Primacy of Danger
 
 For most organisms throughout evolutionary history, survival has depended upon the ability to respond rapidly to threats.
 
@@ -58,18 +58,18 @@ A response that arrives too late may be equivalent to no response at all.
 
 Consequently, evolution strongly rewards systems capable of:
 
-Rapid detection
-Rapid classification
-Rapid retrieval
-Rapid action activation
+- Rapid detection
+- Rapid classification
+- Rapid retrieval
+- Rapid action activation
 
 The question then becomes:
 
-What structural architecture best supports these requirements?
+> What structural architecture best supports these requirements?
 
 The MBS hypothesis proposes that Trigger-Retrieval-Tunnel architectures may represent one such solution.
 
-Why Pure Computation Is Not Enough
+## Why Pure Computation Is Not Enough
 
 Imagine an organism confronted with danger.
 
@@ -89,21 +89,21 @@ Such approaches may be computationally expensive and biologically unrealistic.
 
 Instead, survival often favors:
 
-Recognition.
-
-Activation.
-
-Execution.
+    Recognition.
+    
+    Activation.
+    
+    Execution.
 
 In other words:
 
-Recognize the situation.
+    Recognize the situation.
+    
+    Activate a known pathway.
+    
+    Execute immediately.
 
-Activate a known pathway.
-
-Execute immediately.
-
-This pattern naturally leads toward trigger-based cognition.
+## This pattern naturally leads toward trigger-based cognition.
 
 Trigger Systems as Evolutionary Necessity
 
@@ -111,27 +111,27 @@ The first requirement is detecting significance.
 
 An organism must answer:
 
-Does this matter?
+> Does this matter?
 
 And more importantly:
 
-Does this matter right now?
+> Does this matter right now?
 
 This creates pressure for specialized triggering mechanisms.
 
 Examples include:
 
-Movement detection.
+    Movement detection.
 
-Sudden sounds.
+    Sudden sounds.
 
-Predator shapes.
+    Predator shapes.
 
-Pain signals.
+    Pain signals.
 
-Threat-related smells.
+    Threat-related smells.
 
-Social alarm cues.
+    Social alarm cues.
 
 The trigger system therefore acts as an evolutionary filter.
 
@@ -143,7 +143,7 @@ Without triggering, retrieval becomes impossible.
 
 Without retrieval, action becomes impossible.
 
-Retrieval Before Reasoning
+## Retrieval Before Reasoning
 
 Once a trigger activates, time remains limited.
 
@@ -151,22 +151,22 @@ The organism must rapidly locate relevant behavioral knowledge.
 
 This creates a second evolutionary pressure:
 
-Fast retrieval.
+    Fast retrieval.
 
 The brain must determine:
 
-Have I seen something similar before?
-
-What happened last time?
-
-What action is likely to work?
+    Have I seen something similar before?
+    
+    What happened last time?
+    
+    What action is likely to work?
 
 This requirement naturally encourages:
 
-Categorization
-Pattern recognition
-Similarity matching
-Structural indexing
+- Categorization
+- Pattern recognition
+- Similarity matching
+- Structural indexing
 
 The precise biological implementation remains unknown.
 
@@ -174,7 +174,7 @@ However, some form of retrieval capability appears unavoidable.
 
 An organism repeatedly forced to search its entire knowledge space would rarely survive.
 
-Functional Tunnels as Survival Structures
+## Functional Tunnels as Survival Structures
 
 Retrieval alone is insufficient.
 
@@ -186,29 +186,33 @@ The organism requires executable behavioral pathways.
 
 Examples include:
 
-Threat
+    Threat
+    
+    → Orient
+    
+    → Escape
+    
+    → Shelter
 
-→ Orient
+---
 
-→ Escape
+    Hunger
+    
+    → Search
+    
+    → Locate Food
+    
+    → Consume
 
-→ Shelter
+---
 
-Hunger
-
-→ Search
-
-→ Locate Food
-
-→ Consume
-
-Social Threat
-
-→ Assess
-
-→ Defend
-
-→ Retreat
+    Social Threat
+    
+    → Assess
+    
+    → Defend
+    
+    → Retreat
 
 These pathways resemble what MBS describes as Function Tunnels.
 
@@ -216,14 +220,14 @@ A tunnel represents a coherent sequence of actions directed toward a functional 
 
 From an evolutionary perspective, tunnels provide several advantages:
 
-Speed
-Reliability
-Reusability
-Learnability
+- Speed
+- Reliability
+- Reusability
+- Learnability
 
 Once established, tunnels can be repeatedly activated whenever similar conditions arise.
 
-Why MET Favors Tunnels
+## Why MET Favors Tunnels
 
 A critical insight emerges here.
 
@@ -245,23 +249,23 @@ Structures capable of repeatedly crossing survival thresholds accumulate over ev
 
 Structures that fail disappear.
 
-Trigger-Retrieval-Tunnel Loops
+## Trigger-Retrieval-Tunnel Loops
 
 Taken together, the pressures described above naturally form a loop:
 
-Danger
-
-→ Trigger
-
-→ Retrieval
-
-→ Tunnel Activation
-
-→ Action
-
-→ Survival Outcome
-
-→ Structural Reinforcement
+    Danger
+    
+    → Trigger
+    
+    → Retrieval
+    
+    → Tunnel Activation
+    
+    → Action
+    
+    → Survival Outcome
+    
+    → Structural Reinforcement
 
 Repeated millions of times across generations, such loops may shape increasingly sophisticated cognitive architectures.
 
@@ -269,7 +273,7 @@ The resulting system need not emerge through deliberate design.
 
 It can emerge through continuous selection.
 
-Why Danger May Be More Important Than Intelligence
+## Why Danger May Be More Important Than Intelligence
 
 Traditional narratives often emphasize intelligence as the primary driver of cognition.
 
@@ -289,19 +293,19 @@ There was survival.
 
 And survival required:
 
-Detection.
-
-Retrieval.
-
-Activation.
-
-Execution.
+    Detection.
+    
+    Retrieval.
+    
+    Activation.
+    
+    Execution.
 
 The architecture supporting these functions may therefore predate many higher cognitive abilities.
 
 In this view, advanced intelligence may have been built on top of ancient survival architectures.
 
-Dreaming and Structural Reinforcement
+## Dreaming and Structural Reinforcement
 
 The danger-response perspective also provides a possible explanation for dreaming.
 
@@ -309,11 +313,11 @@ If triggers, retrieval pathways, and tunnels are important for survival, then me
 
 Dreaming may contribute by:
 
-Replaying experiences
-Reinforcing successful pathways
-Adjusting retrieval priorities
-Simulating future possibilities
-Maintaining structural readiness
+- Replaying experiences
+- Reinforcing successful pathways
+- Adjusting retrieval priorities
+- Simulating future possibilities
+- Maintaining structural readiness
 
 The MBS project does not claim this explanation is complete.
 
@@ -321,7 +325,7 @@ However, it provides a coherent evolutionary rationale for why dreaming might pe
 
 Dreaming becomes a continuation of structural adaptation rather than a disconnected phenomenon.
 
-Trigger Categories and Cognitive Convergence
+## Trigger Categories and Cognitive Convergence
 
 The danger-response framework also helps explain cognitive convergence.
 
@@ -343,55 +347,55 @@ Similar tunnels produce similar behaviors.
 
 Over time:
 
-Similar Environments
-
-→ Similar Triggers
-
-→ Similar Retrieval Structures
-
-→ Similar Functional Tunnels
-
-→ Similar Cognitive Patterns
+    Similar Environments
+    
+    → Similar Triggers
+    
+    → Similar Retrieval Structures
+    
+    → Similar Functional Tunnels
+    
+    → Similar Cognitive Patterns
 
 This may partially explain why convergence appears repeatedly across individuals, species, and evolutionary lineages.
 
-A Possible Evolutionary Sequence
+## A Possible Evolutionary Sequence
 
 From the MBS perspective, biological cognition may have evolved through stages resembling:
 
-Reactive Reflexes
-
-↓
-
-Trigger Detection
-
-↓
-
-Retrieval Mechanisms
-
-↓
-
-Functional Tunnels
-
-↓
-
-Tunnel Networks
-
-↓
-
-Runtime Simulation
-
-↓
-
-Dream-Based Refinement
-
-↓
-
-Planning and Imagination
-
-↓
-
-Advanced Intelligence
+    Reactive Reflexes
+    
+    ↓
+    
+    Trigger Detection
+    
+    ↓
+    
+    Retrieval Mechanisms
+    
+    ↓
+    
+    Functional Tunnels
+    
+    ↓
+    
+    Tunnel Networks
+    
+    ↓
+    
+    Runtime Simulation
+    
+    ↓
+    
+    Dream-Based Refinement
+    
+    ↓
+    
+    Planning and Imagination
+    
+    ↓
+    
+    Advanced Intelligence
 
 This sequence should not be interpreted as a historical claim.
 
@@ -399,7 +403,7 @@ It is a structural hypothesis.
 
 Its purpose is to provide a coherent framework for understanding how increasingly sophisticated cognition might emerge from simpler mechanisms.
 
-Relationship to Modern Neuroscience
+## Relationship to Modern Neuroscience
 
 Modern neuroscience has revealed many systems associated with threat processing, memory, attention, learning, emotional regulation, and sleep.
 
@@ -409,23 +413,23 @@ Instead, it attempts to organize them through a common structural perspective.
 
 The proposal is intentionally conservative:
 
-Danger creates selection pressure.
-
-Selection pressure favors triggering.
-
-Triggering requires retrieval.
-
-Retrieval activates pathways.
-
-Pathways become structured tunnels.
-
-Tunnels become networks.
-
-Networks support cognition.
+    Danger creates selection pressure.
+    
+    Selection pressure favors triggering.
+    
+    Triggering requires retrieval.
+    
+    Retrieval activates pathways.
+    
+    Pathways become structured tunnels.
+    
+    Tunnels become networks.
+    
+    Networks support cognition.
 
 Whether future neuroscience ultimately supports or revises this interpretation remains an open question.
 
-Conclusion
+## Conclusion
 
 Danger may be one of the most powerful forces shaping biological cognition.
 
