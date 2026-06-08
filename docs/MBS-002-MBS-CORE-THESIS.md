@@ -1,4 +1,4 @@
-# MET Brain Structure (MBS)
+# MBS-002 - MET Brain Structure (MBS)
 ## A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence
 
 ## Introduction
@@ -13,7 +13,7 @@ Instead, it begins with a position of respect.
 
 The MET Brain Structure (MBS) project views modern neuroscience as the primary source of observation, evidence, and experimental knowledge regarding biological intelligence. Our goal is much narrower and more specific:
 
-To explore whether a unified structural runtime model can help organize and interpret a wide range of cognitive phenomena through a common computational perspective.
+> To explore whether a unified structural runtime model can help organize and interpret a wide range of cognitive phenomena through a common computational perspective.
 
 The motivation emerged unexpectedly from a series of studies in Structural Intelligence, Function Tunnel Intelligence (FTI), Function Tunnel Math and Networks (FTMN), Calling Graph systems, Autonomous Structural Intelligence (ASI), and embodied runtime architectures.
 
@@ -21,30 +21,30 @@ While these projects were originally developed as engineering and computational 
 
 Across many apparently different domains, complex behavior often appeared to emerge from combinations of:
 
-Trigger mechanisms
-Retrieval systems
-Graph-like knowledge structures
-Functional pathways
-Runtime activation
-Continuous in-situ adaptation
+- Trigger mechanisms
+- Retrieval systems
+- Graph-like knowledge structures
+- Functional pathways
+- Runtime activation
+- Continuous in-situ adaptation
 
 The same structural pattern repeatedly appeared in software systems, autonomous agents, trajectory intelligence, tunnel-based reasoning, and eventually in observations related to biological cognition.
 
 This led to a natural question:
 
-Could a similar structural pattern exist within biological intelligence itself?
+> Could a similar structural pattern exist within biological intelligence itself?
 
 The MET Brain Structure hypothesis does not attempt to explain every aspect of the brain.
 
 Instead, it focuses on a more fundamental question:
 
-What minimal structural architecture could simultaneously support dreaming, danger response, embodied cognition, retrieval, learning, simulation, cognitive convergence, and continuous adaptation?
+> What minimal structural architecture could simultaneously support dreaming, danger response, embodied cognition, retrieval, learning, simulation, cognitive convergence, and continuous adaptation?
 
 This question is referred to as the Minimal Evolution Threshold (MET) perspective.
 
 Rather than searching for the most sophisticated possible architecture, the MET perspective asks:
 
-What is the simplest architecture that evolution could have repeatedly discovered, preserved, and expanded because it provided immediate survival advantages?
+> What is the simplest architecture that evolution could have repeatedly discovered, preserved, and expanded because it provided immediate survival advantages?
 
 From this viewpoint, many cognitive phenomena begin to appear surprisingly connected.
 
@@ -62,49 +62,51 @@ Instead, these phenomena may represent different manifestations of a shared unde
 
 The central hypothesis of MBS is that biological cognition may be organized around interactions among several major components:
 
-Trigger Systems
+#### 1. Trigger Systems
 
 Mechanisms capable of rapidly detecting important situations, opportunities, threats, goals, or environmental changes.
 
-Retrieval Structures
+#### 2. Retrieval Structures
 
 Systems that support fast recognition, classification, indexing, and activation of relevant knowledge structures.
 
-Graph and Tunnel Knowledge Structures
+#### 3. Graph and Tunnel Knowledge Structures
 
 Networks of states, actions, relationships, memories, embodied experiences, and functional pathways.
 
-Embodied Runtime Systems
+#### 4. Embodied Runtime Systems
 
 Mechanisms capable of constructing, activating, simulating, and executing meaningful scene-based experiences.
 
-In-Situ Evolution Mechanisms
+#### 5. In-Situ Evolution Mechanisms
 
 Continuous adaptation processes that modify triggers, retrieval pathways, graph structures, and behavioral tunnels through experience.
+
+---
 
 Under this view, cognition becomes less similar to a classical computer executing instructions and more similar to a continuously evolving structural runtime system.
 
 Instead of:
 
-Memory
-   ↓
-CPU
-   ↓
-Decision
+    Memory
+       ↓
+    CPU
+       ↓
+    Decision
 
 MBS proposes a structure more closely resembling:
 
-Trigger
-   ↓
-Retrieval
-   ↓
-Graph Activation
-   ↓
-Tunnel Execution
-   ↓
-Embodied Runtime
-   ↓
-Learning & Evolution
+    Trigger
+       ↓
+    Retrieval
+       ↓
+    Graph Activation
+       ↓
+    Tunnel Execution
+       ↓
+    Embodied Runtime
+       ↓
+    Learning & Evolution
 
 One of the most important motivations for this hypothesis comes from dreaming animals.
 
