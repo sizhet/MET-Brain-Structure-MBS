@@ -7,11 +7,11 @@ Welcome.
 
 This repository explores a simple but ambitious question:
 
-What minimal structural architecture could support dreaming, memory, imagination, danger response, learning, planning, cognitive convergence, and continuous adaptation?
+> What minimal structural architecture could support dreaming, memory, imagination, danger response, learning, planning, cognitive convergence, and continuous adaptation?
 
 The answer proposed by this project is called:
 
-MET Brain Structure (MBS).
+#### MET Brain Structure (MBS).
 
 MBS is not a neuroscience theory.
 
@@ -29,34 +29,34 @@ Not from brain science.
 
 But from research in:
 
-Structural Intelligence
-Calling Graphs
-Function Tunnel Intelligence (FTI)
-Function Tunnel Math and Networks (FTMN)
-Autonomous Structural Intelligence (ASI)
-Human-AI Hybrid Cognition
+- Structural Intelligence
+- Calling Graphs
+- Function Tunnel Intelligence (FTI)
+- Function Tunnel Math and Networks (FTMN)
+- Autonomous Structural Intelligence (ASI)
+- Human-AI Hybrid Cognition
 
 Over time, these investigations repeatedly revealed similar structural patterns:
 
-Triggering.
-
-Retrieval.
-
-Pathways.
-
-Runtime activation.
-
-Scene construction.
-
-Continuous adaptation.
+    Triggering.
+    
+    Retrieval.
+    
+    Pathways.
+    
+    Runtime activation.
+    
+    Scene construction.
+    
+    Continuous adaptation.
 
 Eventually a natural question emerged:
 
-Could biological cognition itself be organized around similar structural principles?
+> Could biological cognition itself be organized around similar structural principles?
 
 This repository explores that possibility.
 
-Why This Repository Exists
+## Why This Repository Exists
 
 The brain remains one of the greatest unsolved scientific mysteries.
 
@@ -80,31 +80,31 @@ Why do imagination, planning, memory, navigation, and dreaming feel strangely re
 
 MBS attempts to examine these questions through a common structural lens.
 
-The Core Idea
+## The Core Idea
 
 The central idea of MBS can be summarized as:
 
-Environment
-      ↓
-Trigger
-      ↓
-Retrieval
-      ↓
-Graph / Tunnel Activation
-      ↓
-Embodied Scene Runtime
-      ↓
-Action / Simulation
-      ↓
-Learning & Evolution
+    Environment
+          ↓
+    Trigger
+          ↓
+    Retrieval
+          ↓
+    Graph / Tunnel Activation
+          ↓
+    Embodied Scene Runtime
+          ↓
+    Action / Simulation
+          ↓
+    Learning & Evolution
 
 Rather than viewing cognition primarily as symbolic computation, MBS explores the possibility that cognition may emerge from continuous activation and evolution of structural pathways.
 
 This idea is referred to as:
 
-Trigger–Retrieval–Tunnel Architecture (TRTA).
+#### Trigger–Retrieval–Tunnel Architecture (TRTA).
 
-Why Dreaming Animals Matter
+## Why Dreaming Animals Matter
 
 One of the most important observations behind MBS is surprisingly simple.
 
@@ -126,31 +126,31 @@ Dreaming is not merely a curiosity.
 
 It is evidence.
 
-Why Danger Matters
+## Why Danger Matters
 
 Danger is one of the most powerful forces in evolution.
 
 An organism facing immediate danger cannot afford:
 
-Exhaustive reasoning
-Perfect optimization
-Complete world modeling
+- Exhaustive reasoning
+- Perfect optimization
+- Complete world modeling
 
 Instead, survival favors:
 
-Detect
-    ↓
-Retrieve
-    ↓
-Activate
-    ↓
-Act
+    Detect
+        ↓
+    Retrieve
+        ↓
+    Activate
+        ↓
+    Act
 
 This pressure may have shaped cognition itself.
 
 The MBS project refers to this perspective as:
 
-MET Selection
+#### MET Selection
 
 (Minimal Evolution Threshold Selection)
 
@@ -158,7 +158,7 @@ The architecture does not need to be perfect.
 
 It only needs to be effective enough to survive.
 
-Why Scenes Matter
+## Why Scenes Matter
 
 Another key idea in MBS is:
 
@@ -190,7 +190,7 @@ Emotions.
 
 The MBS hypothesis proposes that scenes may be among the primary runtime units of cognition.
 
-Why Cognitive Convergence Matters
+## Why Cognitive Convergence Matters
 
 One of the most intriguing ideas explored in this repository is:
 
@@ -198,10 +198,10 @@ Trigger Convergence
 
 Traditional explanations often focus on:
 
-Genetics
-Environment
-Culture
-Learning
+- Genetics
+- Environment
+- Culture
+- Learning
 
 MBS proposes an additional mechanism.
 
@@ -215,36 +215,36 @@ Similar retrieval structures produce similar functional pathways.
 
 Over time:
 
-Environment
-      ↓
-Triggers
-      ↓
-Retrieval
-      ↓
-Tunnels
-      ↓
-Cognition
+    Environment
+          ↓
+    Triggers
+          ↓
+    Retrieval
+          ↓
+    Tunnels
+          ↓
+    Cognition
 
 This may help explain why cognitive convergence appears repeatedly throughout nature.
 
-Relationship to Neuroscience
+## Relationship to Neuroscience
 
 This repository is built with deep respect for neuroscience.
 
 Neuroscience provides:
 
-Observations
-Experiments
-Biological evidence
-Clinical findings
-Imaging data
+- Observations
+- Experiments
+- Biological evidence
+- Clinical findings
+- Imaging data
 
 MBS attempts to provide:
 
-Structural interpretation
-Architectural organization
-Computational analogies
-Digital model references
+- Structural interpretation
+- Architectural organization
+- Computational analogies
+- Digital model references
 
 The relationship is complementary.
 
@@ -254,55 +254,57 @@ The goal is not to replace neuroscience.
 
 The goal is to learn from neuroscience.
 
-Relationship to Artificial Intelligence
+## Relationship to Artificial Intelligence
 
 MBS also emerged from decades of questions about artificial intelligence.
 
 Many AI systems excel at:
 
-Pattern recognition
-Language generation
-Optimization
+- Pattern recognition
+- Language generation
+- Optimization
 
 Yet biological cognition still appears different in important ways.
 
 MBS suggests that future intelligent systems may require:
 
-Trigger systems
-Retrieval governance
-Embodied scene runtime
-Functional tunnel execution
-Continuous structural adaptation
+- Trigger systems
+- Retrieval governance
+- Embodied scene runtime
+- Functional tunnel execution
+- Continuous structural adaptation
 
 This makes MBS both a brain project and an AI project.
 
-Suggested Reading Order
+## Suggested Reading Order
 
 For most readers:
 
-MBS-001 START HERE
-      ↓
-MBS-002 MBS Core Thesis
-      ↓
-MBS-003 Why Dreaming Animals Matter
-      ↓
-MBS-004 Trigger-Retrieval-Tunnel Architecture
-      ↓
-MBS-005 Danger Response and MET Selection
-      ↓
-MBS-006 Embodied Scene Runtime
-      ↓
-MBS-007 Cognitive Convergence
-      ↓
-MBS-008 Relation to Modern Neuroscience
-      ↓
-MBS-009 Relation to AI and ASI
-      ↓
-MBS-010 Future Directions
+    MBS-001 START HERE
+          ↓
+    MBS-002 MBS Core Thesis
+          ↓
+    MBS-003 Why Dreaming Animals Matter
+          ↓
+    MBS-004 Trigger-Retrieval-Tunnel Architecture
+          ↓
+    MBS-005 Danger Response and MET Selection
+          ↓
+    MBS-006 Embodied Scene Runtime
+          ↓
+    MBS-007 Cognitive Convergence
+          ↓
+    MBS-008 Relation to Modern Neuroscience
+          ↓
+    MBS-009 Relation to AI and ASI
+          ↓
+    MBS-010 Future Directions
+          ↓
+    MBS-011-TRIGGER-CHANNELS-ARE-NOT-HACKS.md
 
 This sequence follows the logic by which the MBS hypothesis itself emerged.
 
-A Note of Humility
+## A Note of Humility
 
 The brain remains extraordinarily complex.
 
@@ -330,7 +332,7 @@ The purpose of MBS is not certainty.
 
 The purpose of MBS is investigation.
 
-Final Thought
+## Final Thought
 
 Many theories of intelligence begin with reasoning.
 
