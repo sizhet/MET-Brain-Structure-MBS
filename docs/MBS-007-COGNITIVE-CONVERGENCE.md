@@ -176,6 +176,8 @@ Many possible experiences become filtered through similar priorities.
 
 Over time, cognition begins to resemble itself across individuals and species.
 
+![./figures/Fig-006-Cognitive-Convergence-by-Trigger-Convergence.png](./figures/Fig-006-Cognitive-Convergence-by-Trigger-Convergence.png)
+
 ## Retrieval Convergence
 
 Once trigger categories become similar, retrieval systems face similar demands.

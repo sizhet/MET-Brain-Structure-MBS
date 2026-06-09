@@ -69,6 +69,8 @@ The question then becomes:
 
 The MBS hypothesis proposes that Trigger-Retrieval-Tunnel architectures may represent one such solution.
 
+![./figures/Fig-004-Danger-Response-MET-Selection.png](./figures/Fig-004-Danger-Response-MET-Selection.png)
+
 ## Why Pure Computation Is Not Enough
 
 Imagine an organism confronted with danger.

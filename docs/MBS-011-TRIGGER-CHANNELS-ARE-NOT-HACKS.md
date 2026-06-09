@@ -42,6 +42,8 @@ The central claim is:
 
 They emerge naturally whenever large knowledge systems must operate under limited runtime resources.
 
+![./figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png](./figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png)
+
 ## The Hidden Problem
 
 Consider a sufficiently large knowledge system.

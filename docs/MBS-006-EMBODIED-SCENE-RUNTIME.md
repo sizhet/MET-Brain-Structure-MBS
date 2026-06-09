@@ -170,6 +170,8 @@ Instead of assembling cognition from isolated symbols, the brain may activate pr
 
 ## Embodiment Matters
 
+![./figures/Fig-005-Embodied-Scene-Runtime.png](./figures/Fig-005-Embodied-Scene-Runtime.png)
+
 The term embodied is critical.
 
 Scenes are not merely visual images.

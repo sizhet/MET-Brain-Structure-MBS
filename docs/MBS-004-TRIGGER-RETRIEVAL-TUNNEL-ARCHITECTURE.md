@@ -47,6 +47,8 @@ Biological cognition may be organized around the interaction of five major layer
 
 Together these layers form a continuously operating structural runtime system.
 
+![./figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png](./figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png)
+
 ## Why a Layered Model?
 
 Many traditional computational models implicitly assume:

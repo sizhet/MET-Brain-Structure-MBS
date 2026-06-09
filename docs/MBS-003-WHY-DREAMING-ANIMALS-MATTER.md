@@ -98,6 +98,8 @@ However, from a structural perspective, dreaming suggests the existence of a run
 
 This observation aligns naturally with the MET Brain Structure hypothesis.
 
+![./figures/Fig-003-Dreaming-Animals-Evidence-Chain.png](./figures/Fig-003-Dreaming-Animals-Evidence-Chain.png)
+
 ## Dreaming and Calling Graphs
 
 Within Structural Intelligence research, Calling Graphs are used to represent transitions among states through operations.

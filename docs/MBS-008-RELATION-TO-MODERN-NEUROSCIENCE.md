@@ -32,6 +32,8 @@ The MBS project begins from a position of gratitude and respect toward this work
 
 Without neuroscience, MBS would not exist.
 
+![./figures/Fig-007-MBS-and-Neuroscience-Companion-Framework.png](./figures/Fig-007-MBS-and-Neuroscience-Companion-Framework.png)
+
 ## What MBS Is Not
 
 MBS does not claim:

@@ -19,6 +19,8 @@ It emerged from a long sequence of investigations into:
 - Runtime adaptation
 - Human-AI collaboration
 
+![./figures/Fig-008-MBS-in-Structural-Intelligence-Stack.png](./figures/Fig-008-MBS-in-Structural-Intelligence-Stack.png)
+
 In many ways, MBS is the result of an unexpected journey.
 
 Researchers were attempting to understand intelligent systems.

@@ -82,6 +82,8 @@ Mechanisms capable of constructing, activating, simulating, and executing meanin
 
 Continuous adaptation processes that modify triggers, retrieval pathways, graph structures, and behavioral tunnels through experience.
 
+![./figures/Fig-001-MBS-Overview.png](./figures/Fig-001-MBS-Overview.png)
+
 ---
 
 Under this view, cognition becomes less similar to a classical computer executing instructions and more similar to a continuously evolving structural runtime system.
