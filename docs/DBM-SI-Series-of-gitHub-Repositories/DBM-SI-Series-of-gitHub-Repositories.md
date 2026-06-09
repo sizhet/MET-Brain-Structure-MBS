@@ -98,3 +98,10 @@
     
 33. Universal Semantic Infrastructure (USI) \
     Repository: https://github.com/sizhet/Universal-Semantic-Infrastructure-USI   
+    
+34. Function Tunnel Math and Network (FTMN) \
+    Repository: https://github.com/sizhet/Function-Tunnel-Math-and-Network-FTMN
+    
+35. MET Brain Structure (MBS) \
+    Repository: https://github.com/sizhet/MET-Brain-Structure-MBS      
+ 
