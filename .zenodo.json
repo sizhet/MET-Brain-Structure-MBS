@@ -1,27 +1,23 @@
 {
   "title": "MET Brain Structure (MBS): A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence",
-
   "upload_type": "publication",
-
   "publication_type": "workingpaper",
-
-  "description": "<p><strong>MET Brain Structure (MBS)</strong> is an exploratory structural runtime hypothesis investigating possible organizational principles underlying biological cognition.</p><p>The project emerged from research in Structural Intelligence, Calling Graphs, Function Tunnel Intelligence (FTI), Function Tunnel Math and Networks (FTMN), Autonomous Structural Intelligence (ASI), and Human-AI Hybrid Cognition.</p><p>MBS proposes that many cognitive phenomena may be viewed through a common Trigger-Retrieval-Tunnel Architecture involving trigger systems, retrieval structures, graph and tunnel knowledge organization, embodied scene runtime, and continuous in-situ adaptation.</p><p>The repository explores possible structural explanations for dreaming, danger response, memory recall, imagination, planning, navigation, learning, and cognitive convergence.</p><p>MBS is not intended to replace neuroscience. Instead, it aims to provide a complementary structural perspective and a digital modeling framework that may help organize observations across neuroscience, cognitive science, animal behavior, artificial intelligence, and future human-AI hybrid intelligence systems.</p>",
-
+  "description": "<p><strong>MET Brain Structure (MBS)</strong> is an exploratory structural runtime hypothesis investigating possible organizational principles underlying biological cognition.</p><p>The project emerged from research in Structural Intelligence, Calling Graphs, Function Tunnel Intelligence (FTI), Function Tunnel Math and Networks (FTMN), Autonomous Structural Intelligence (ASI), and Human-AI Hybrid Cognition.</p><p>MBS proposes that many cognitive phenomena may be viewed through a common Trigger-Retrieval-Tunnel Architecture involving trigger systems, retrieval structures, graph and tunnel knowledge organization, embodied scene runtime, and continuous in-situ adaptation.</p><p>The repository explores possible structural explanations for dreaming, danger response, memory recall, imagination, planning, navigation, learning, cognitive convergence, and trigger-centered runtime selection.</p><p>MBS is not intended to replace neuroscience. Instead, it aims to provide a complementary structural perspective and a digital modeling framework that may help organize observations across neuroscience, cognitive science, animal behavior, artificial intelligence, and future human-AI hybrid intelligence systems.</p>",
   "creators": [
     {
       "name": "Tan, Sizhe",
       "affiliation": "Independent Researcher"
     }
   ],
-
   "keywords": [
     "Structural Intelligence",
-    "Brain Structure",
     "MET Brain Structure",
+    "Brain Structure",
     "Embodied Cognition",
     "Dreaming",
     "Dream Runtime",
     "Trigger Systems",
+    "Trigger Channels",
     "Retrieval Systems",
     "Function Tunnel Intelligence",
     "Calling Graph",
@@ -31,12 +27,8 @@
     "Cognitive Architecture",
     "Computational Neuroscience"
   ],
-
-  "license": "MIT",
-
+  "license": "Apache-2.0",
   "version": "1.0.0",
-
   "language": "eng",
-
   "access_right": "open"
 }

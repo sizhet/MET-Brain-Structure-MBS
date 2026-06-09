@@ -1,49 +1,28 @@
 cff-version: 1.2.0
-
-title: "MET Brain Structure (MBS): A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence"
-
 message: "If you use this work, please cite it using the metadata below."
-
+title: "MET Brain Structure (MBS): A Structural Runtime Hypothesis for Embodied Cognition, Dreaming, Retrieval, Learning, and Cognitive Convergence"
 type: dataset
-
 authors:
   - family-names: Tan
     given-names: Sizhe
-    affiliation: Independent Researcher
-
+    affiliation: "Independent Researcher"
 repository-code: "https://github.com/sizhet/MET-Brain-Structure-MBS"
-
-abstract: >
-  MET Brain Structure (MBS) is a structural runtime hypothesis
-  exploring possible organizational principles underlying biological
-  cognition. Inspired by Structural Intelligence, Calling Graphs,
-  Function Tunnel Intelligence (FTI), Autonomous Structural Intelligence
-  (ASI), and embodied runtime systems, MBS investigates how triggering,
-  retrieval, graph and tunnel structures, embodied scene runtime, and
-  in-situ adaptation may contribute to dreaming, danger response,
-  learning, planning, memory, and cognitive convergence.
-
-  The project does not attempt to replace neuroscience. Instead,
-  it proposes a complementary structural perspective intended to
-  organize observations across neuroscience, cognitive science,
-  animal behavior, artificial intelligence, and human-AI hybrid systems.
-
+abstract: "MET Brain Structure (MBS) is a structural runtime hypothesis exploring possible organizational principles underlying biological cognition. Inspired by Structural Intelligence, Calling Graphs, Function Tunnel Intelligence (FTI), Function Tunnel Math and Networks (FTMN), Autonomous Structural Intelligence (ASI), and embodied runtime systems, MBS investigates how triggering, retrieval, graph and tunnel structures, embodied scene runtime, and in-situ adaptation may contribute to dreaming, danger response, learning, planning, memory, cognitive convergence, and trigger-centered runtime selection. The project does not attempt to replace neuroscience. Instead, it proposes a complementary structural perspective intended to organize observations across neuroscience, cognitive science, animal behavior, artificial intelligence, and human-AI hybrid systems."
 keywords:
   - Structural Intelligence
   - Cognitive Architecture
   - Brain Structure
+  - MET Brain Structure
   - Embodied Cognition
   - Dreaming
   - Trigger Systems
+  - Trigger Channels
   - Retrieval Systems
   - Function Tunnel Intelligence
   - Calling Graph
   - Autonomous Structural Intelligence
   - Cognitive Convergence
   - Human-AI Hybrid Intelligence
-
-license: MIT
-
-date-released: 2026-06-08
-
-version: 1.0.0
+license: Apache-2.0
+date-released: "2026-06-08"
+version: "1.0.0"
