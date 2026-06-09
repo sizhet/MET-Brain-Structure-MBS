@@ -35,6 +35,8 @@ Instead, it asks:
 
 ## Core Hypothesis
 
+![./docs/figures/Fig-001-MBS-Overview.png](./docs/figures/Fig-001-MBS-Overview.png)
+
 MBS proposes that biological cognition may often operate through a runtime flow resembling:
 
     Environment
@@ -62,6 +64,8 @@ This differs from a classical computer metaphor:
 MBS suggests that cognition may be less like centralized symbolic computation and more like continuous activation, traversal, simulation, and evolution of embodied structures.
 
 ## Why Dreaming Animals Matter
+
+![./docs/figures/Fig-003-Dreaming-Animals-Evidence-Chain.png](./docs/figures/Fig-003-Dreaming-Animals-Evidence-Chain.png)
 
 One important motivation comes from dreaming animals.
 
@@ -93,6 +97,8 @@ It may be evidence of an embodied scene runtime that supports memory, learning, 
 
 ## Trigger-Retrieval-Tunnel Architecture
 
+![./docs/figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png](./docs/figures/Fig-002-Trigger-Retrieval-Tunnel-Architecture.png)
+
 The core architecture of MBS contains five layers:
 
 #### 1. Trigger Layer
@@ -111,6 +117,8 @@ Activates scenes, simulations, dreams, plans, memories, and actions.
 Continuously modifies triggers, retrieval paths, tunnels, and scene structures through experience.
 
 ## Danger Response and MET Selection
+
+![./docs/figures/Fig-004-Danger-Response-MET-Selection.png](./docs/figures/Fig-004-Danger-Response-MET-Selection.png)
 
 Danger may be one of the strongest evolutionary forces shaping cognition.
 
@@ -136,6 +144,8 @@ Over evolutionary time, this pressure may reinforce trigger systems, retrieval s
 
 ## Embodied Scene Runtime
 
+![./docs/figures/Fig-005-Embodied-Scene-Runtime.png](./docs/figures/Fig-005-Embodied-Scene-Runtime.png)
+
 MBS proposes that scenes may be one of the major runtime units of cognition.
 
 Memory, dreaming, imagination, navigation, planning, and prediction may all involve activation of embodied scenes.
@@ -156,6 +166,8 @@ In this view, cognition is not always assembled from isolated symbols.
 It often begins by activating an embodied scene with built-in context and action possibilities.
 
 ## Cognitive Convergence
+
+![./docs/figures/Fig-006-Cognitive-Convergence-by-Trigger-Convergence.png](./docs/figures/Fig-006-Cognitive-Convergence-by-Trigger-Convergence.png)
 
 MBS also proposes a trigger-centered interpretation of cognitive convergence.
 
@@ -185,6 +197,8 @@ This is the Trigger Convergence hypothesis.
 
 ## Relationship to Neuroscience
 
+![./docs/figures/Fig-007-MBS-and-Neuroscience-Companion-Framework.png](./docs/figures/Fig-007-MBS-and-Neuroscience-Companion-Framework.png)
+
 MBS is not a replacement for neuroscience.
 
 Neuroscience provides:
@@ -209,6 +223,8 @@ The goal is collaboration, not competition.
 MBS stands on the shoulders of neuroscientists, cognitive scientists, psychologists, ethologists, and brain researchers whose work provides the foundation for any meaningful model of cognition.
 
 ## Relationship to AI and ASI
+
+![./docs/figures/Fig-008-MBS-in-Structural-Intelligence-Stack.png](./docs/figures/Fig-008-MBS-in-Structural-Intelligence-Stack.png)
 
 MBS emerged from a long research path:
 
